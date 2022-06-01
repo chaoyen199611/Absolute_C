@@ -1,0 +1,4 @@
+
+namespace B{
+    void g();
+}
